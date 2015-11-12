@@ -1,0 +1,2 @@
+# poissonsolver
+a poisson equation solver routine for free boundery condition using the algorithm described in JOURNAL OF CHEMICAL PHYSICS VOLUME 110, NUMBER 6 , 8 FEBRUARY 1999 A reciprocal space based method for treating long range interactions in ab initio and force-field-based calculations in clusters Glenn J. Martyna Department of Chemistry, Indiana University, Bloomington, Indiana 47405-4001 Mark E. Tuckerman Department of Chemistry and Courant Institute of Mathematical Sciences, New York University, New York, New York 10003
