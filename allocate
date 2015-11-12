@@ -1,0 +1,6 @@
+allocate (xi(ndim_x))
+allocate (yi(ndim_y))
+allocate (zi(ndim_z))
+allocate(ext_pot(ndim_x,ndim_y,ndim_z))
+allocate(charge_den(ndim_x,ndim_y,ndim_z))
+allocate (hartree_pot(ndim_x,ndim_y,ndim_z))

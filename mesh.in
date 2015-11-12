@@ -1,0 +1,4 @@
+x dim                        y dim                     z di4
+100                           100                      100
+delta_x                    delta_y                   delta_z
+0.15                          0.15                       0.15

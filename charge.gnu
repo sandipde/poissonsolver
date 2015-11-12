@@ -1,0 +1,13 @@
+splot "chargegauss0.5.dat" u 1:2:4 w l
+splot "chargegauss0.7.dat" u 1:2:4 w l
+splot "chargegauss0.9.dat" u 1:2:4 w l
+splot "chargegauss1.1.dat" u 1:2:4 w l
+splot "chargegauss1.3.dat" u 1:2:4 w l
+splot "chargegauss1.5.dat" u 1:2:4 w l
+splot "chargegauss1.7.dat" u 1:2:4 w l
+splot "chargegauss1.9.dat" u 1:2:4 w l
+splot "chargegauss2.1.dat" u 1:2:4 w l
+splot "chargegauss2.3.dat" u 1:2:4 w l
+splot "chargegauss2.5.dat" u 1:2:4 w l
+splot "chargegauss2.7.dat" u 1:2:4 w l
+splot "chargegauss2.9.dat" u 1:2:4 w l
